@@ -555,8 +555,9 @@
 #u2590 {
   position:absolute;
   left:2px;
-  top:10px;
+  top:12px;
   width:596px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u2591_div {
